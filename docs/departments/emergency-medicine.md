@@ -8,6 +8,7 @@
 
 ### About the Service
 The **Department of Emergency Medicine** at **Changi General Hospital (CGH)** provides **24-hour emergency care** for patients of all ages.  
+
 It is equipped to manage both **medical and surgical emergencies**, including trauma, cardiac, and stroke cases.  
 
 The ED team works closely with other hospital departments to ensure timely treatment and continuity of care.
