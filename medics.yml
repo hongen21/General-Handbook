@@ -1,0 +1,28 @@
+site_name: General Handbook
+site_description: Public-facing guide to departments and patient services
+site_url: https://hongen21.github.io/General-Handbook
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.tabs
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+  language: en
+nav:
+  - Home: index.md
+  - How to Use This Handbook: how-to-use.md
+  - Departments:
+      - Emergency Medicine: departments/emergency-medicine.md
+      - Cardiology: departments/cardiology.md
+      - Orthopaedic Surgery: departments/orthopaedic-surgery.md
+      - Radiology: departments/radiology.md
+      - Pharmacy: departments/pharmacy.md
+      - Nursing: departments/nursing.md
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
