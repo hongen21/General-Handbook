@@ -6,7 +6,7 @@ This handbook helps patients and visitors navigate departments, referrals, and s
 
 ## Start here
 - If you have symptoms and don’t know which department to visit → [How to Use This Handbook](how-to-use.md)
-- If you know your department → [See All Departments](departments/)
+- If you know your department → [See All Departments](clinical-specialties/index.md)
 - For official hospital information, visit:
   - [Changi General Hospital Website](https://www.cgh.com.sg)
   - [Patient & Visitor Info](https://www.singhealth.com.sg/patient-services/patient-visitor-info/visitor-guide/cgh)
