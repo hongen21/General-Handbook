@@ -6,43 +6,65 @@
 ---
 
 ### About the Service
-The **Department of Radiology** at **Changi General Hospital (CGH)** provides a full range of diagnostic and interventional imaging services.  
-The department supports patient care across all clinical areas — from emergency imaging to routine health screening — and uses modern digital systems for faster, safer, and more accurate diagnosis.
+The **Department of Radiology** at **Changi General Hospital (CGH)** provides a comprehensive range of diagnostic and interventional imaging services.  
+It supports patients across all clinical areas — from emergency imaging to specialist diagnostics — and uses advanced digital technology to deliver accurate, timely, and safe results.
 
 ---
 
 ### Core Imaging Services
-- **General X-Ray** – for bones, lungs, and other common examinations  
-- **Computed Tomography (CT)** – cross-sectional imaging for detailed internal views  
+- **General X-Ray** – routine skeletal and chest imaging  
+- **Computed Tomography (CT)** – detailed cross-sectional imaging  
 - **Magnetic Resonance Imaging (MRI)** – high-resolution imaging using magnetic fields  
-- **Ultrasound** – soft tissue, abdominal, and obstetric scans  
+- **Ultrasound** – abdominal, vascular, and soft-tissue scans  
 - **Mammography** – breast imaging and screening  
-- **Fluoroscopy** – real-time moving X-ray imaging for diagnostic and interventional use  
-- **Interventional Radiology** – image-guided minimally invasive procedures
+- **Fluoroscopy** – real-time moving X-ray imaging  
+- **Interventional Radiology** – minimally invasive, image-guided procedures  
 
 ---
 
 ### Patient Safety
-CGH Radiology adheres to international safety standards to minimise radiation exposure.  
-Each scan is justified and tailored to the patient’s needs, and staff ensure proper preparation and protective measures before every examination.
+CGH Radiology follows international radiation-safety standards to ensure patient protection and optimal image quality.  
+All scans are performed only when clinically indicated, and preparation instructions are provided before each procedure.
 
 ---
 
 ### Referral / Access
-Radiology services at CGH are typically available **by referral only**:
-- From **CGH specialists or clinics**
-- Through **Emergency Department investigations**
-- Via **primary care providers** referring to CGH specialists  
-
-Patients are advised to follow the preparation instructions provided before their scan or procedure.
+Radiology services are available **by referral** from:
+- CGH specialists or inpatient wards  
+- The **Emergency Department** for urgent cases  
+- Primary-care providers referring patients to CGH specialists  
 
 ---
 
 ### Clinic & Contact Information
-- **Location:** Department of Radiology, Basement 1, Main Building, CGH  
-- **Operating hours:** As listed on the CGH Radiology webpage  
-- **Appointment line:** 6850 3333  
-- **General enquiries:** 6788 8833  
+#### 🏥 **Main Locations**
+**Main Building**  
+- Radiology Department – Level B1  
+- Outpatient Ultrasound – Level 2  
+
+**Medical Centre**  
+- Breast Imaging Centre – Clinic 3G  
+- X-Ray – Clinic 3E / 4E / 4G  
+- Vascular Ultrasound Imaging – Clinic 4C  
+
+**The Integrated Building**  
+- Diagnostic Centre – Level 3  
+
+---
+
+#### 📅 **Operating Hours**
+- **24-hour coverage:** For inpatient and emergency cases.  
+- **Outpatient services:** Monday to Friday, 8:30 am – 5:30 pm.  
+- **Appointment Centre:** Monday to Friday, 8:30 am – 5:30 pm.  
+
+> **Important notes:**  
+> The Appointment Centre is closed on weekends and public holidays.
+
+---
+
+#### ☎️ **Contact**
+- **For new appointments:** (+65) 6850 4843  
+- **To reschedule appointments:** (+65) 6789 8883   
 - **Website:** [https://www.cgh.com.sg/our-specialties/radiology](https://www.cgh.com.sg/our-specialties/radiology)
 
 ---
@@ -57,5 +79,6 @@ Patients are advised to follow the preparation instructions provided before thei
 ---
 
 ### Notes
-This page is adapted from official CGH sources.  
-All clinical and procedural details should be confirmed with CGH staff or via the official website before any appointment.
+This information is adapted solely from the official CGH website.  
+Patients should refer to CGH’s latest online updates or contact the hospital directly for any scheduling or preparation details.
+
