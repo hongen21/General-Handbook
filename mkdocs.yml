@@ -1,28 +1,52 @@
-site_name: General Handbook
-site_description: Public-facing guide to departments and patient services
+site_name: CGH Patient Handbook
+site_description: A public-facing guide to CGH departments, services, and where to go for care
 site_url: https://hongen21.github.io/General-Handbook
+
 theme:
   name: material
   features:
-    - navigation.sections
     - navigation.tabs
-    - content.code.copy
+    - navigation.sections
+    - navigation.expand
     - search.suggest
     - search.highlight
+    - toc.integrate
+  palette:
+    - scheme: default
+      primary: blue
+      accent: light blue
   language: en
+  logo: assets/logo.png  # (optional; shows if you add one later)
+  favicon: assets/logo.png
+
 nav:
   - Home: index.md
   - How to Use This Handbook: how-to-use.md
   - Departments:
-      - Emergency Medicine: departments/emergency-medicine.md
+      - Overview: departments/index.md
+      - Emergency Medicine (ED): departments/emergency-medicine.md
       - Cardiology: departments/cardiology.md
       - Orthopaedic Surgery: departments/orthopaedic-surgery.md
       - Radiology: departments/radiology.md
       - Pharmacy: departments/pharmacy.md
       - Nursing: departments/nursing.md
+
 plugins:
   - search
+
 markdown_extensions:
   - admonition
+  - footnotes
+  - attr_list
   - toc:
       permalink: true
+
+extra:
+  social:
+    - icon: material/hospital-building
+      link: https://www.cgh.com.sg
+  footer: |
+    <small>
+    This handbook provides general information only and follows content from the official CGH website.  
+    © {{ date.strftime('%Y') }} Changi General Hospital.
+    </small>
